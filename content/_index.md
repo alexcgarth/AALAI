@@ -3,8 +3,6 @@ title: "AALAI"
 layout: single
 ---
 
-{{< img src="/pix/AALAI.png" class=normal >}}
-
 AALAI is an efficient shell script that will install a fully-featured tiling window manager-based system on any Arch or [Artix](https://artixlinux.org) Linux-based system, without any of the routine of manual post-install processes and configuration.
 
 ## Two types of AALAI users
@@ -24,7 +22,7 @@ Instead, you realize how easy it is to set things up automatically yourself.
 On a fresh installation of Arch Linux or Artix Linux, run the following:
 
 ```fish
-curl -LO AALAI.xyz/AALAI.sh
+curl -LO aalai.alexgarth.co.uk/dl/aalai.sh
 sh AALAI.sh
 ```
 

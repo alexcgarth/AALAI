@@ -8,7 +8,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/alexcgarth/voidrice.git"
-progsfile="https://raw.githubusercontent.com/alexcgarth/AALAI/main/static/progs.csv"
+progsfile="https://raw.githubusercontent.com/alexcgarth/AALAI/main/static/dl/progs.csv"
 aurhelper="yay"
 repobranch="main"
 export TERM=ansi
