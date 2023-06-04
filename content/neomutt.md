@@ -21,7 +21,6 @@ Once you have installed accounts, sync them with the command `mailsync`, or by p
 
 Press <kbd>super + e</kbd> or type `neomutt` manually in the terminal.
 
-
 ## Bindings
 
 Note also that neomutt automatically documents itself: you can press <kbd>?</kbd> at any time in the program and you will see a list of all shortcuts for the screen you are on.
@@ -91,4 +90,4 @@ Note also that neomutt is configured to tab complete contact information stored 
 
 `man neomutt` or `man neomuttrc`.
 
-[Mutt/Neomutt on the ArchWiki](https://wiki.archlinux.org/title/Mutt)
+[Mutt|Neomutt:ArchWiki](https://wiki.archlinux.org/title/Mutt)

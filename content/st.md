@@ -35,6 +35,6 @@ If you don't like it, remove the `bindkey -v` line from the [zsh](/zsh) configur
 
 ## Source Code
 
-- [st for LARBS](https://github.com/lukesmithxyz/st)
+- [st for AALAI](https://github.com/lukesmithxyz/st) _(Currently Luke Smith's version. I will release my own version ASAP)_
 - [original st at suckless's website](https://st.suckless.org)
 - MIT License
